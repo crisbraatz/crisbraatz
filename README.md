@@ -16,6 +16,12 @@
 
 ## My Skills
 
+### AI
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=white)
+![PGoogle Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0089D6?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### Backend
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -30,7 +36,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031?&style=for-the-badge&logo=redis&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### Brokers
@@ -42,4 +48,4 @@
 ### Clouds
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
