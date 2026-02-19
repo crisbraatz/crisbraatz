@@ -35,6 +35,7 @@
 
 ### Brokers
 
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Service Bus](https://img.shields.io/badge/ServiceBus-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
@@ -42,9 +43,3 @@
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## Some stats about me
-
-![Stats](https://github-readme-stats.vercel.app/api/?username=crisbraatz&theme=blue-green)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisbraatz&theme=blue-green)
