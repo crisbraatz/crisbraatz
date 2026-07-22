@@ -42,11 +42,11 @@
       <a href="https://www.nuget.org/packages/MetaphonePtBr">
         <img alt="MetaphonePtBr" src="https://raw.githubusercontent.com/crisbraatz/crisbraatz.github.io/main/assets/projects/metaphoneptbr/metaphoneptbr.png" width="100%">
       </a>
-      <p>Phonetic transformation algorithm for Brazilian Portuguese, packaged for .NET.</p>
+      <p>A .NET library that converts Brazilian Portuguese words into stable phonetic tokens, helping name, address, and brand search keep working when spelling varies.</p>
       <p>
-        <img alt=".NET Standard" src="https://img.shields.io/badge/.NET_Standard-512BD4?style=flat-square&logo=dotnet&logoColor=white">
-        <img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?style=flat-square&logo=nuget&logoColor=white">
-        <img alt="C Sharp" src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white">
+        <img alt="netstandard2.0" src="https://img.shields.io/badge/netstandard2.0-244C5A?style=flat-square">
+        <img alt="Typo-tolerant search" src="https://img.shields.io/badge/Typo--tolerant_search-244C5A?style=flat-square">
+        <img alt="Phonetic tokens" src="https://img.shields.io/badge/Phonetic_tokens-244C5A?style=flat-square">
       </p>
     </td>
   </tr>
